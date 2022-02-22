@@ -1,0 +1,13 @@
+id: 01FWG6E760WAZDSJ50WAMJDR24
+description: ''
+expected: project
+patterns:
+  - proeject
+  - prject
+  - projct
+allows: []
+specs:
+  - from: proeject
+    to: project
+tags:
+  - noun
