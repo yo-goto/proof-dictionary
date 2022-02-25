@@ -1,0 +1,13 @@
+id: 01FWR8EJ9M0XK81TQG5NXF91QB
+description: ''
+expected: external
+patterns:
+  - extenal
+  - extnal
+  - exteral
+allows: []
+specs:
+  - from: external
+    to: external
+tags:
+  - opinion
