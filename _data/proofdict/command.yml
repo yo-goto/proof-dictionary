@@ -1,0 +1,15 @@
+id: 01FXD9PKDT72HW7HC2ERW2AD6N
+description: ''
+expected: command
+patterns:
+  - /comm*and/
+allows: []
+specs:
+  - from: command
+    to: command
+  - from: commmmand
+    to: command
+  - from: commmmmmmmand
+    to: command
+tags:
+  - noun
