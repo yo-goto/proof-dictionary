@@ -1,0 +1,13 @@
+id: 01FXHZT4B329FA2453Q1F16PKW
+description: ''
+expected: ファイル
+patterns:
+  - ファイある
+  - フィアル
+  - ファイアル
+allows: []
+specs:
+  - from: フィアル
+    to: ファイル
+tags:
+  - noun
