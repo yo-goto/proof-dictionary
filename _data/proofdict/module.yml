@@ -1,0 +1,11 @@
+id: 01FZFJEAV627G3ZRBKAPV7HDHA
+description: module
+expected: module
+patterns:
+  - moduel
+allows: []
+specs:
+  - from: moduel
+    to: module
+tags:
+  - noun
