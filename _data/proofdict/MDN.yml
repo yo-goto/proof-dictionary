@@ -1,0 +1,10 @@
+id: 01GANQP1698B0ZA1PX531ZYGQH
+description: MDN
+expected: MDN
+patterns:
+  - Mdn
+  - MDn
+allows: []
+specs: []
+tags:
+  - noun
