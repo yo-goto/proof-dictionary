@@ -1,0 +1,10 @@
+id: 01HAKJNM274CXT4WTBFF7SDE2V
+description: ''
+expected: TypeScript
+patterns:
+  - typeScript
+  - TypeScrit
+  - TypeScrpt
+allows: []
+specs: []
+tags: []
