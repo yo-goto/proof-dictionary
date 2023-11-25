@@ -1,0 +1,12 @@
+id: 01HG2RR2H5N71DYRWHM4HEDKF7
+description: ''
+expected: Obsidian
+patterns:
+  - obsidian
+  - obsidain
+  - Obsidain
+allows: []
+specs:
+  - from: obsidain
+    to: Obsidian
+tags: []
